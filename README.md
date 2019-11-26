@@ -1,6 +1,12 @@
-# Clicky Button Flutter Custom 3D Button
+# Clicky Button for flutter
+
+![logo](./images/logo.png)
 
 A Custom 3D Button in Flutter
+
+## Demo
+
+![demo](./images/demo.gif)
 
 ## How To Use it
 
